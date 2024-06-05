@@ -1,2 +1,2 @@
-Dermiscope Machine Learning
+Dermiscope
 
